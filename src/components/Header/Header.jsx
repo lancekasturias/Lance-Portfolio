@@ -4,9 +4,20 @@ import css from './Header.module.css';
 
 export const Header = () => {
   return (
-    <div>
-      <NavLink>Home</NavLink>
-      <NavLink>Movie</NavLink>
+    <div className={css.nav}>
+      <div className={css.logoname}>
+        <NavLink>
+          <h2 className={css.logo}>Lance Portfolio</h2>
+        </NavLink>
+      </div>
+      <div className={css.btn}>
+        <NavLink to="/" className={`${css.navlink} ${css.active}`}>
+          Home
+        </NavLink>
+        <NavLink to="about" className={css.navlink}>
+          About
+        </NavLink>
+      </div>
     </div>
   );
 };
