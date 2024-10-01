@@ -10,9 +10,6 @@
   animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;
 }
 
-h1 {
-  text-wrap: wrap;
-}
 .divcontainer {
   display: flex;
   justify-content: center;

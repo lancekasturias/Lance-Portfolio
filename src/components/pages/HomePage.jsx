@@ -1,7 +1,6 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
+
 import css from './HomePage.module.css';
-import { useEffect, useState } from 'react';
 
 export const HomePage = () => {
   return (
