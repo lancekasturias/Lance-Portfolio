@@ -7,18 +7,32 @@
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: 0.15em; /* Adjust as needed */
-  animation: typing 3.5s steps(50, end), blink-caret 0.5s step-end infinite;
+  animation: typing 2s steps(50, end), blink-caret 0.5s step-end infinite;
+}
+
+h1 {
+  font-size: 50px;
 }
 
 .divcontainer {
   display: flex;
   justify-content: center;
   padding-top: 200px;
+  gap: 200px;
 }
 
 .picture {
   color: wheat;
   overflow: hidden;
+}
+
+.me {
+  width: 500px;
+  height: 520px;
+  border-radius: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  display: flex;
 }
 
 /* The typing effect */
