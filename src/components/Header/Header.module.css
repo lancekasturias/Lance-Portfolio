@@ -3,7 +3,7 @@ a {
 }
 
 .navlink {
-  color: #4fffb0;
+  color: #00ff00;
   padding: 8px 16px;
   font-weight: 500;
   font-size: 20px;
@@ -15,11 +15,11 @@ a {
 .navlink:hover {
   border-color: white;
   border-radius: 5px;
-  border: 2px solid #4fffb0;
+  border: 2px solid #00ff00;
 }
 
 .nav {
-  background-color: #2a2d31;
+  background-color: #3c3c3b;
   padding: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   display: flex;
@@ -40,5 +40,5 @@ a {
   margin-left: 15px;
 }
 .logo {
-  color: #4fffb0;
+  color: #00ff00;
 }

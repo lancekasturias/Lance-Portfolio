@@ -3,7 +3,7 @@
   color: #fff;
   font-family: monospace;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: 0.15em solid #4fffb0; /* The typwriter cursor */
+  border-right: 0.15em solid #00ff00; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: 0.15em; /* Adjust as needed */
@@ -19,11 +19,6 @@ h1 {
   justify-content: center;
   padding-top: 200px;
   gap: 200px;
-}
-
-.picture {
-  color: wheat;
-  overflow: hidden;
 }
 
 .me {
@@ -52,6 +47,6 @@ h1 {
     border-color: transparent;
   }
   50% {
-    border-color: #4fffb0;
+    border-color: #00ff00;
   }
 }
