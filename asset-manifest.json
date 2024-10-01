@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.f7398792.css",
-    "main.js": "/react-homework-template/static/js/main.35ebaf0f.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.f7398792.css.map": "/react-homework-template/static/css/main.f7398792.css.map",
-    "main.35ebaf0f.js.map": "/react-homework-template/static/js/main.35ebaf0f.js.map"
+    "main.css": "/Lance-Portfolio/static/css/main.32306278.css",
+    "main.js": "/Lance-Portfolio/static/js/main.dc7e390f.js",
+    "static/media/me.jpg": "/Lance-Portfolio/static/media/me.9be4e31bec929442b6e5.jpg",
+    "index.html": "/Lance-Portfolio/index.html",
+    "main.32306278.css.map": "/Lance-Portfolio/static/css/main.32306278.css.map",
+    "main.dc7e390f.js.map": "/Lance-Portfolio/static/js/main.dc7e390f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7398792.css",
-    "static/js/main.35ebaf0f.js"
+    "static/css/main.32306278.css",
+    "static/js/main.dc7e390f.js"
   ]
 }
