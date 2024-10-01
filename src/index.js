@@ -6,7 +6,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/react-homework-template">
+    <BrowserRouter basename="/Lance-Portfolio">
       <App />
     </BrowserRouter>
   </React.StrictMode>
